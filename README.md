@@ -1,2 +1,0 @@
-# acessibilidade.cvg
-aula20
